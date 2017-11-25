@@ -25,5 +25,5 @@ Two repository name options:
 
 ## Examples
 
-- Simple html, css example [index.html](index.html)
-- Simple bootstrap example [bootstrap.html](bootstrap.html)
+- Simple html, css example [code](index.html) [demo](http://werocktech.com/intro-to-making-a-website/)
+- Simple bootstrap example [code](bootstrap.html) [demo](http://werocktech.com/intro-to-making-a-website/bootstrap.html)

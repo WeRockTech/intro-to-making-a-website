@@ -23,4 +23,7 @@ Two repository name options:
 
 - [ ] You can use a custom domain, for example, `example.com` to point to your webiste
 
-Example in this repo at [index.html](index.html)
+## Examples
+
+- Simple html, css example [index.html](index.html)
+- Simple bootstrap example [bootstrap.html](bootstrap.html)

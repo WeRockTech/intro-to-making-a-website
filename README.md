@@ -27,3 +27,8 @@ Two repository name options:
 
 - Simple html, css example [code](index.html) [demo](http://werocktech.com/intro-to-making-a-website/)
 - Simple bootstrap example [code](bootstrap.html) [demo](http://werocktech.com/intro-to-making-a-website/bootstrap.html)
+
+## Other tools
+
+- [Jekyll](https://jekyllrb.com)
+- [AsciiDoctor](http://asciidoctor.org)

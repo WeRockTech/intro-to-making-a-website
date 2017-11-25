@@ -18,3 +18,5 @@ Two repository name options:
 - [ ] 5. Add some content with **html** to this file, for example `<h1>Hello world</h1>` and see how this effects the deployed changes
 - [ ] 6. Add more content to the same file, for example `<p>My name is Eddie</p>`
 - [ ] 7. Lets add some styling, change `<p style="color:blue">My name is Eddie</p>`
+
+Example in this repo at [index.html](index.html)
